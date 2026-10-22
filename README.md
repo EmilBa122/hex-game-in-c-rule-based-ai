@@ -37,7 +37,7 @@ c) Type
 
 ## Known Limitations
 - The program does not detect the winner of the game
-- The `suggest` and `level` commands are not implemented, and the difficulty level
+- The `suggest` and `level` commands are not implemented and the difficulty level
   does not affect the computer's play
 - The computer opponent stops placing tiles after its first few moves
 - The `-b` option and the swap rule do not fully follow the assignment's specification
