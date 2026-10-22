@@ -40,10 +40,7 @@ c) Type
 - The `suggest` and `level` commands are not implemented, and the difficulty level
   does not affect the computer's play
 - The computer opponent stops placing tiles after its first few moves
-- `newgame` and `load` are only accepted as the first command, and after `save`
-  only `quit` is accepted
 - The `-b` option and the swap rule do not fully follow the assignment's specification
-- Board size is not validated (sizes outside 4–26 are not rejected)
 
 ## -Creators - Team
 1)EMIL BANTAK 		SDI 1115201800122 <br>
