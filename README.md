@@ -46,5 +46,5 @@ c) Type
 - Board size is not validated (sizes outside 4–26 are not rejected)
 
 ## -Creators - Team
-1)EMIL BANTAK 		SDI 1115201800122
+1)EMIL BANTAK 		SDI 1115201800122 <br>
 2)GURPREET SINGH VIRDI	SDI 1115201800020
